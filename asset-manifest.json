@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-mod-5-route/static/css/main.7d40bf6a.css",
+    "main.js": "/react-practice-mod-5-route/static/js/main.f01a3009.js",
+    "index.html": "/react-practice-mod-5-route/index.html",
+    "main.7d40bf6a.css.map": "/react-practice-mod-5-route/static/css/main.7d40bf6a.css.map",
+    "main.f01a3009.js.map": "/react-practice-mod-5-route/static/js/main.f01a3009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d40bf6a.css",
+    "static/js/main.f01a3009.js"
+  ]
+}
